@@ -84,3 +84,7 @@ button:focus-visible {
   width: 55px;
   height: 55px;
 }
+button:active {
+  background-color: rgb(107, 0, 143);
+  color: white;
+}
